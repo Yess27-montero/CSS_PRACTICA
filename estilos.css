@@ -1,0 +1,8 @@
+.principal{
+    background-color: aquamarine;
+    height: 300px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
